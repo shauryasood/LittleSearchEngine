@@ -1,0 +1,1 @@
+Implemented a Little Search Engine that takes a set of text documents that finds and index’s keywords into each of their own hash table (Occurrence), merges these hash tables into the master hash table (keywordsIndex) containing all the keywords, searches the master hash table (keywordsIndex) and returns the top five keywords that occur the most.
